@@ -1,0 +1,9 @@
+{"structure_checklists" :
+"Build",
+"Environment",
+"Test date",
+"Tester",
+"Test Type",
+"Checking",
+"Result"}
+
