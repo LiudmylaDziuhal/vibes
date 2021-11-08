@@ -1,0 +1,4 @@
+{"structure_bag_reports" : "Summary", "Project", "Component", "Version", "Severity", "Priority", "Status",
+"Author", "Assigned_To", "Steps to Reproduce", "Result", "Expected Result"}
+
+
